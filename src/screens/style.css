@@ -1,0 +1,13 @@
+.header{
+    height: 70px;
+    display: flex;   
+    align-items: center;
+    border-bottom:10px solid salmon;
+}
+
+.heading{
+    background-color: chocolate;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
